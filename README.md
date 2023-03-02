@@ -1,2 +1,2 @@
-#Actividad 6
-##Product activity
+# Actividad 6
+## Product activity
